@@ -78,7 +78,6 @@ A clean, structured dataset containing key financials, industry info, and calcul
 
 ## 📁 Files
 
-- [Alteryx Workflow Summary (PDF)](https://github.com/akshithkamatala/sales-receivables-prediction/blob/main/Alteryx_workflow_summary.pdf)
 - [Alteryx Workflow Snapshot (PNG)](https://github.com/akshithkamatala/sales-receivables-prediction/blob/main/Workflow_snap.png)
 - [Alteryx Workflow File (`.yxmd`)](https://github.com/akshithkamatala/sales-receivables-prediction/blob/main/data_cleaning.yxmd)
 - [Python Analysis Notebook (`.ipynb`)](https://github.com/akshithkamatala/sales-receivables-prediction/blob/main/Sales_Receivable_Mgt_Analysis.ipynb)
