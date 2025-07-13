@@ -5,7 +5,7 @@ This project combines **Alteryx** and **Python** to analyze and predict financia
 
 ---
 
-## 🔧 Step 1: Data Preparation in Alteryx
+## Data Preparation in Alteryx
 
 The Alteryx workflow handles:
 - Merging industry classification and name mappings
@@ -21,7 +21,7 @@ The Alteryx workflow handles:
 
 ---
 
-## 🐍 Step 2: Python Analysis
+## Python Analysis
 
 The Python notebook (`Sales_Receivable_Mgt_Analysis.ipynb`) performs:
 - Exploratory and diagnostic analysis to understand relationships between receivables and financial strength
@@ -38,7 +38,7 @@ Key insights include:
 ## 📁 Files
 
 - `Sales_Receivable_Mgt_Analysis.ipynb` — Full Python notebook for analysis
-- `Alteryx_Workflow.png` — Visual of the preprocessing steps in Alteryx
+- `[Alteryx_Workflow.png](https://github.com/akshithkamatala/sales-receivables-prediction/blob/main/Workflow_snap.png)` — Visual of the workflow in Alteryx
 
 ---
 
