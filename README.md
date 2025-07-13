@@ -13,8 +13,9 @@ The Alteryx workflow handles:
 - Computing custom metrics such as AR Turnover, Bad Receivables Ratio, and Write-offs
 - Preparing the final clean dataset for export to CSV
 
-![Alteryx Workflow](69a2bf52-b157-4b06-995c-069fee23c920.png)
-
+![Detailed Alteryx Summary](https://github.com/akshithkamatala/sales-receivables-prediction/blob/main/Alteryx_workflow_summary.pdf)
+![Alteryx Workflow](https://github.com/akshithkamatala/sales-receivables-prediction/blob/main/data_cleaning.yxmd)
+![Alteryx Workflow_Snap](https://github.com/akshithkamatala/sales-receivables-prediction/blob/main/Workflow_snap.png)
 ---
 
 ## 🐍 Step 2: Python Analysis
