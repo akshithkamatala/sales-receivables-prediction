@@ -38,7 +38,8 @@ Key insights include:
 ## 📁 Files
 
 - `Sales_Receivable_Mgt_Analysis.ipynb` — Full Python notebook for analysis
-- `[Alteryx_Workflow.png](https://github.com/akshithkamatala/sales-receivables-prediction/blob/main/Workflow_snap.png)` — Visual of the workflow in Alteryx
+- `[]([url](https://github.com/akshithkamatala/sales-receivables-prediction/blob/main/Workflow_snap.png))` — Visual of the workflow in Alteryx
+
 
 ---
 
