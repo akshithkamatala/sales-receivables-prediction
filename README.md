@@ -80,11 +80,13 @@ A clean, structured dataset containing key financials, industry info, and calcul
 
 - [Alteryx Workflow Snapshot (PNG)](https://github.com/akshithkamatala/sales-receivables-prediction/blob/main/Workflow_snap.png)
 - [Alteryx Workflow File (`.yxmd`)](https://github.com/akshithkamatala/sales-receivables-prediction/blob/main/data_cleaning.yxmd)
+- [Alteryx output File (`.csv`)](https://github.com/akshithkamatala/sales-receivables-prediction/blob/main/Receivables_and_Bad_Debts_Data.zip)
 - [Python Analysis Notebook (`.ipynb`)](https://github.com/akshithkamatala/sales-receivables-prediction/blob/main/Sales_Receivable_Mgt_Analysis.ipynb)
+- 
 
 ---
 
-## ✅ Tools Used
+## Tools Used
 
 - **Alteryx** for data cleaning, transformation, and metric computation
 - **Python**: `pandas`, `matplotlib`, `seaborn`, `statsmodels`, `sklearn`
