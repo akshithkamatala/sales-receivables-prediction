@@ -14,8 +14,11 @@ The Alteryx workflow handles:
 - Preparing the final clean dataset for export to CSV
 
 ![Detailed Alteryx Summary](https://github.com/akshithkamatala/sales-receivables-prediction/blob/main/Alteryx_workflow_summary.pdf)
+
 ![Alteryx Workflow](https://github.com/akshithkamatala/sales-receivables-prediction/blob/main/data_cleaning.yxmd)
+
 ![Alteryx Workflow_Snap](https://github.com/akshithkamatala/sales-receivables-prediction/blob/main/Workflow_snap.png)
+
 ---
 
 ## 🐍 Step 2: Python Analysis
