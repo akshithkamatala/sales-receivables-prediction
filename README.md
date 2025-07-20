@@ -1,4 +1,4 @@
-# Sales Receivables Management Analysis
+# Receivables Analytics – From ETL to Prediction
 
 This project combines **Alteryx** and **Python** to analyze and predict financial risk using real-world financial data.
 
