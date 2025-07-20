@@ -1,6 +1,6 @@
 # Receivables Analytics – From ETL to Prediction
 
-This project combines **Alteryx** and **Python** to analyze and predict financial risk using real-world financial data.
+This project combines **Alteryx** and **Python** to analyze and predict bad debt provisions using real-world financial dataset of over 227,000 financial records from companies across 46 industries. The objective was to understand credit efficiency, identify industry-level risk patterns, and build a basic predictive model using Python.
 
 ---
 
