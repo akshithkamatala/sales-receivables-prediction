@@ -76,7 +76,7 @@ A clean, structured dataset containing key financials, industry info, and calcul
 
 ---
 
-## 📁 Files
+## Files
 
 - [Alteryx Workflow Snapshot (`.png`)](https://github.com/akshithkamatala/sales-receivables-prediction/blob/main/Alteryx_files/Workflow_snap.png)
 - [Alteryx Workflow File (`.yxmd`)](https://github.com/akshithkamatala/sales-receivables-prediction/blob/main/Alteryx_files/data_cleaning.yxmd)
