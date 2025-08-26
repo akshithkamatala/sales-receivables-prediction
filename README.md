@@ -1,5 +1,5 @@
 # Tools used
-1. Exxcel
+1. Excel
 2. Alteryx
 3. Python
 
