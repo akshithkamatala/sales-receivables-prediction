@@ -78,7 +78,7 @@ A clean, structured dataset containing key financials, industry info, and calcul
 4. **Interpretability Focus**
    - Used only intuitive financial predictors (e.g., Profit, AR, EBITDA) for transparency
    - Focused on a simple, explainable model instead of complex black-box algorithms
-
+ 
 ---
 
 ## Files
